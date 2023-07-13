@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a href="https://giphy.com/stickers/typing-chibi-samosa-chibisamosa-9qd5ApuJmQV6MjORYW"></a> -->
-<img src="https://giphy.com/stickers/typing-chibi-samosa-chibisamosa-9qd5ApuJmQV6MjORYW" width="200"/>
- <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
+
+ <img src="https://giphy.com/embed/9qd5ApuJmQV6MjORYW" width="200"/>
 
 - 👋 Hi, I’m @Thanuja
 - 👀 am a computer science graduate student who is aspiring to become a Developer.
