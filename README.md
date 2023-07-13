@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 
- <div style="width:100%;height:0;padding-bottom:110%;position:relative;"><iframe src="https://giphy.com/embed/JWy2zBSXQ55W5Jh00D" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/wfh-workfromhome-working-from-home-JWy2zBSXQ55W5Jh00D">via GIPHY</a></p> -->
- <img src="https://giphy.com/embed/JWy2zBSXQ55W5Jh00D" width="200"/> 
+  -->
+ <img src="https://media.giphy.com/media/JWy2zBSXQ55W5Jh00D/giphy.gif" width="200"/> 
 
 - 👋 Hi, I’m @Thanuja
 - 👀 am a computer science graduate student who is aspiring to become a Developer.
