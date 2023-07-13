@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
- - <img src="https://giphy.com/embed/9qd5ApuJmQV6MjORYW" width="200"/> --!>
+ - <img src="https://giphy.com/embed/9qd5ApuJmQV6MjORYW" width="200"/> -->
 
 - 👋 Hi, I’m @Thanuja
 - 👀 am a computer science graduate student who is aspiring to become a Developer.
