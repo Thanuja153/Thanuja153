@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
   -->
- <img src="https://media.giphy.com/media/JWy2zBSXQ55W5Jh00D/giphy.gif" width="200"/> 
+ <img align="right" src="https://media.giphy.com/media/JWy2zBSXQ55W5Jh00D/giphy.gif" width="200"/> 
 
 - 👋 Hi, I’m @Thanuja
 - 👀 am a computer science graduate student who is aspiring to become a Developer.
