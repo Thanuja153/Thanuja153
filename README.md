@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<iframe src="https://giphy.com/embed/9qd5ApuJmQV6MjORYW" width="340" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/typing-chibi-samosa-chibisamosa-9qd5ApuJmQV6MjORYW">via GIPHY</a></p>
+
+<a href="https://giphy.com/stickers/typing-chibi-samosa-chibisamosa-9qd5ApuJmQV6MjORYW"></a> -->
+<img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
+
 - 👋 Hi, I’m @Thanuja
 - 👀 am a computer science graduate student who is aspiring to become a Developer.
 - 🌱 I’m currently learning and boosting up my knowledge in MERN stack.
