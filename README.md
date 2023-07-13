@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<iframe src="https://giphy.com/embed/9qd5ApuJmQV6MjORYW" width="340" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/typing-chibi-samosa-chibisamosa-9qd5ApuJmQV6MjORYW">via GIPHY</a></p>
 - 👋 Hi, I’m @Thanuja
 - 👀 am a computer science graduate student who is aspiring to become a Developer.
 - 🌱 I’m currently learning and boosting up my knowledge in MERN stack.
 - 👯 looking forward to collaborate on MERN projects that solves bigger problems.
-- 📫 You can reach me out in my linkedIn profile  -> https://www.linkedin.com/in/thanujapavanisatti/
+- 📫 You can reach me out using my linkedIn profile  -> https://www.linkedin.com/in/thanujapavanisatti/
