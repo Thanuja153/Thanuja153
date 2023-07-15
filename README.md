@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
  ### Hi all, Thanuja Here 👋
 
-<div id="header" align="right">
-  <img src="https://media.giphy.com/media/JWy2zBSXQ55W5Jh00D/giphy.gif" width="200"/>
-</div>
+
+  <img align="right" src="https://media.giphy.com/media/JWy2zBSXQ55W5Jh00D/giphy.gif" width="200"/>
+
 
 - 👀 Computer science graduate student who is aspiring to become a Software Developer.
 - 🌱 I’m currently learning and boosting up my knowledge in MERN stack.
