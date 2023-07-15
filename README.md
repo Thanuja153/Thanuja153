@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 👀 Computer science graduate student who is aspiring to become a Software Developer.
 - 🌱 I’m currently learning and boosting up my knowledge in MERN stack.
-- 👯 Looking forward to collaborate on MERN projects that solves bigger problems.
+- 👯 Looking forward to collaborate on projects that solves bigger problems.
 - 📫 You can reach me out using my linkedIn profile  -> https://www.linkedin.com/in/thanujapavanisatti/
 
 
