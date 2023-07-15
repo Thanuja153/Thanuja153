@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 - 📫 You can reach me out using my linkedIn profile  -> https://www.linkedin.com/in/thanujapavanisatti/
  -->
 
- ### Hey, Thanuja Here 👋
+ ### Hi all, Thanuja Here 👋
 
-<div id="header" align="center">
+<div id="header" align="right">
   <img src="https://media.giphy.com/media/JWy2zBSXQ55W5Jh00D/giphy.gif" width="200"/>
 </div>
 
