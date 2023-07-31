@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 📫 You can reach me out using my linkedIn profile  -> https://www.linkedin.com/in/thanujapavanisatti/
  -->
 
- ### Hi all, Th@nuja Here 👋
+ ### Hi all, Th@nuja Here <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/waving_hand.gif" alt="welcome" width="20" height="20" />
 
 
   <img align="right" src="https://media.giphy.com/media/JWy2zBSXQ55W5Jh00D/giphy.gif" width="200"/>
