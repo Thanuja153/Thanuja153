@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 👀 Computer science graduate student who is aspiring to become a Software Developer.
 - 🌱 I’m currently learning and boosting up my knowledge in MERN stack.
 - 👯 Looking forward to collaborate on projects that solves bigger problems.
+
 - 📫 You can reach me out using my linkedIn profile  -> https://www.linkedin.com/in/thanujapavanisatti/
  -->
 
@@ -30,9 +31,10 @@ Here are some ideas to get you started:
 
 
 - 👀 Computer science Master's student who is aspiring to become a Software Developer.
-- 🌱 I’m currently learning and boosting up my knowledge in MERN stack.
+- 💻 I’m currently learning and boosting up my knowledge in MERN stack.
 - 👯 Looking forward to collaborate on projects that solves bigger problems.
-- 📫 You can reach me out using my linkedIn profile  -> https://www.linkedin.com/in/thanujapavanisatti/
+- 🌱 Check out my Portfolio here 👉 https://thanujaportfolio.netlify.app/
+- 📫 You can reach me out using my linkedIn  👉 https://www.linkedin.com/in/thanujapavanisatti/
 
 
 ---
