@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 - 💻 I’m currently learning and boosting up my knowledge in MERN stack.
 - 👯 Looking forward to collaborate on projects that solves bigger problems.
 - 🌱 Check out my Portfolio here 👉 https://thanujaportfolio.netlify.app/
-- <a href="https://thanujaportfolio.netlify.app/" target="_blank">https://thanujaportfolio.netlify.app/</a>
+- [https://thanujaportfolio.netlify.app/](https://thanujaportfolio.netlify.app/){:target="_blank"}
+
 - 📫 Reach me out using my LinkedIn 👉 https://www.linkedin.com/in/thanujapavanisatti/
 
 
