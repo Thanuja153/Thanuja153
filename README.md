@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 👯 Looking forward to collaborate on projects that solves bigger problems.
 -->
 
- <!--- - 📫 You can reach me out using my linkedIn profile  -> https://www.linkedin.com/in/thanujapavanisatti/  -->
+ <!-- - 📫 You can reach me out using my linkedIn profile  -> https://www.linkedin.com/in/thanujapavanisatti/  -->
 
  ### Hi, Th@nuja Here <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/waving_hand.gif" alt="welcome" width="25" height="25" />
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 💻 I’m currently learning and boosting up my knowledge in MERN stack.
 - 👯 Looking forward to collaborate on projects that solves bigger problems.
 - 🌱 Check out my Portfolio here 👉 https://thanujaportfolio.netlify.app/
-- 📫 Reach me out using my LinkedIn 👉 https://www.linkedin.com/in/thanujapavanisatti/
+ <!-- - 📫 Reach me out using my LinkedIn 👉 https://www.linkedin.com/in/thanujapavanisatti/ -->
 
 
 ---
