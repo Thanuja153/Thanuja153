@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 👀 Computer science Master's student who is aspiring to become a Software Developer.
 - 💻 I’m currently learning and boosting up my knowledge in MERN stack.
 - 👯 Looking forward to collaborate on projects that solves bigger problems.
-- 🌱 Check out my Portfolio here 👉 https://thanujaportfolio.netlify.app/
+ <!-- - 🌱 Check out my Portfolio here 👉 https://thanujaportfolio.netlify.app/ -->
  <!-- - 📫 Reach me out using my LinkedIn 👉 https://www.linkedin.com/in/thanujapavanisatti/ -->
 
 
