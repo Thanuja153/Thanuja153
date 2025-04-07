@@ -29,12 +29,16 @@ Here are some ideas to get you started:
 
   <img align="right" src="https://media.giphy.com/media/JWy2zBSXQ55W5Jh00D/giphy.gif" width="200"/>
 
-
+ <!--
 - 👀 Computer science Master's student who is aspiring to become a Software Developer.
 - 💻 I’m currently learning and boosting up my knowledge in MERN stack.
 - 👯 Looking forward to collaborate on projects that solves bigger problems.
- <!-- - 🌱 Check out my Portfolio here 👉 https://thanujaportfolio.netlify.app/ -->
+ - 🌱 Check out my Portfolio here 👉 https://thanujaportfolio.netlify.app/ -->
  <!-- - 📫 Reach me out using my LinkedIn 👉 https://www.linkedin.com/in/thanujapavanisatti/ -->
+
+- 👋 Hi, I’m @Thanuja
+- 👀 Java Full Stack Software Engineer.
+- 🌱 Java, Python , NodeJS , React , Docker , Kubernetes , Spring Boot
 
 
 ---
