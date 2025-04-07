@@ -17,8 +17,8 @@ Here are some ideas to get you started:
  <img align="right" src="https://media.giphy.com/media/JWy2zBSXQ55W5Jh00D/giphy.gif" width="150"/> 
 
 - 👋 Hi, I’m @Thanuja
-- 👀 Computer science graduate student who is aspiring to become a Software Developer.
-- 🌱 I’m currently learning and boosting up my knowledge in MERN stack.
+- 👀 Java Full Stack Software Engineer.
+- 🌱 Java, Python , NodeJS , React , Docker , Kubernetes , Spring Boot
 - 👯 Looking forward to collaborate on projects that solves bigger problems.
 -->
 
